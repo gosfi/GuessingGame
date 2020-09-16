@@ -1,0 +1,13 @@
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\bin\Debug\netcoreapp3.1\Guessing game.exe
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\bin\Debug\netcoreapp3.1\Guessing game.deps.json
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\bin\Debug\netcoreapp3.1\Guessing game.runtimeconfig.json
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\bin\Debug\netcoreapp3.1\Guessing game.runtimeconfig.dev.json
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\bin\Debug\netcoreapp3.1\Guessing game.dll
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\bin\Debug\netcoreapp3.1\Guessing game.pdb
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\obj\Debug\netcoreapp3.1\Guessing game.csprojAssemblyReference.cache
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\obj\Debug\netcoreapp3.1\Guessing game.AssemblyInfoInputs.cache
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\obj\Debug\netcoreapp3.1\Guessing game.AssemblyInfo.cs
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\obj\Debug\netcoreapp3.1\Guessing game.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\obj\Debug\netcoreapp3.1\Guessing game.dll
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\obj\Debug\netcoreapp3.1\Guessing game.pdb
+C:\Users\Samuel\Exercism\csharp\hello-world\.exercism\Guessing game\obj\Debug\netcoreapp3.1\Guessing game.genruntimeconfig.cache
